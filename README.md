@@ -1,7 +1,7 @@
 # SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation
 
 **Paper:** SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation  
-**Conference:** "Submitted to the 2025 Latin American Congress on Automation and Robotics"]  
+**Conference:** "Submitted to the 2025 Latin American Congress on Automation and Robotics"  
 **Authors:** Syed Izzat Ullah, José Baca
 
 ---
