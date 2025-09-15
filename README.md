@@ -13,6 +13,9 @@ This repository contains the official implementation and dataset for the paper "
 
 SynTrajGen is a parametric tool designed to generate diverse, 3D trajectories to train and benchmark forecasting models for UAV collision avoidance.
 
+Below is an example trajectories for a few samples:
+![Trajectory Examples](media/trajectories_1x4.png)
+
 ### Repository Status
 
 **Code and dataset are pending release.**
@@ -21,5 +24,4 @@ The source code and dataset for this project will be made publicly available imm
 
 Thank you for your interest in our work!
 
-For any questions, please email us at sizzatullah@islander.tamucc.edu 
-
+For any questions, please email us at sizzatullah@islander.tamucc.edu
