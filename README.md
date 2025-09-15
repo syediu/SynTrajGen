@@ -1,4 +1,3 @@
-<div style="font-family: 'Times New Roman', Times, serif;">
 
 # SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation
 
@@ -24,4 +23,3 @@ Thank you for your interest in our work!
 
 For any questions, please email us at sizzatullah@islander.tamucc.edu 
 
-</div>
