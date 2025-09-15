@@ -14,7 +14,7 @@ SynTrajGen is a parametric tool designed to generate diverse, 3D trajectories to
 
 ### ## Repository Status
 
-:hourglass: **Code and dataset are pending release.**
+**Code and dataset are pending release.**
 
 The source code and dataset for this project will be made publicly available immediately upon the acceptance of the corresponding paper.
 
