@@ -7,7 +7,7 @@
 
 ---
 
-### About This Project
+### About This Repo
 
 This repository contains the official implementation and dataset for the paper "SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation".
 
