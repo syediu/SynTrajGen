@@ -1,5 +1,4 @@
-<span style="font-family: 'Times New Roman', Times, serif;">
-
+<div style="font-family: 'Times New Roman', Times, serif;">
 
 # SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation
 
@@ -24,4 +23,5 @@ The source code and dataset for this project will be made publicly available imm
 Thank you for your interest in our work!
 
 For any questions, please email us at sizzatullah@islander.tamucc.edu 
-</span>
+
+</div>
