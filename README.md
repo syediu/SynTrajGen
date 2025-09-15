@@ -6,13 +6,13 @@
 
 ---
 
-### ## About This Project
+### About This Project
 
 This repository contains the official implementation and dataset for the paper "SynTrajGen: A Synthetic Trajectory Generator for Non-Cooperative Dynamic Obstacles in UAV Navigation".
 
 SynTrajGen is a parametric tool designed to generate diverse, 3D trajectories to train and benchmark forecasting models for UAV collision avoidance.
 
-### ## Repository Status
+### Repository Status
 
 **Code and dataset are pending release.**
 
